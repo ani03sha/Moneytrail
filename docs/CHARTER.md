@@ -35,4 +35,3 @@ We will know this project worked successfully if:
 The limits of the system are:
 
 - Includes only synthetic data and money.
-- 
